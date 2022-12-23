@@ -29,7 +29,7 @@
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/10.3.PNG)<br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/10.4.PNG)<br />
 4. Video<br />
-
+https://youtu.be/i5rB8f8IpLY
 5. Conclusiones <br />
 •	Aprender a aplicar el análisis de ramas, lazos y nodos; para resolver un circuito de distintas formas, usando los distintos métodos para hallar la corriente y el voltaje con el circuito.<br />
 •	Aprender más sobre el magnétismo y como se lo aplica, que función cumplen en los circuitos y cuales son los campo electromagnéticos y como calcularlos; también sobre los dispositivos electromagnéticos en un circuito.<br />
