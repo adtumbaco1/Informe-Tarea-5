@@ -28,4 +28,11 @@
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/10.2.PNG)<br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/10.3.PNG)<br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/10.4.PNG)<br />
-4. Video
+4. Video<br />
+
+5. Conclusiones <br />
+•	Aprender a aplicar el análisis de ramas, lazos y nodos; para resolver un circuito de distintas formas, usando los distintos métodos para hallar la corriente y el voltaje con el circuito.<br />
+•	Aprender más sobre el magnétismo y como se lo aplica, que función cumplen en los circuitos y cuales son los campo electromagnéticos y como calcularlos; también sobre los dispositivos electromagnéticos en un circuito.<br />
+6. Bibliografía <br />
+Floyd, T. L. (2007). Análisis de ramas, lazos y nodos. En T. L. Floyd, Principios de circuitos eléctricos (págs. 334-365). México: Pearson Educación de México, S.A. de C.V.<br />
+Floyd, T. L. (2007). Voltaje, corriente y resistencia. En T. L. Floyd, Principios de circuitos eléctricos (págs. 370-400). México: Pearson Educación de México , S.A. de C.V.<br />
