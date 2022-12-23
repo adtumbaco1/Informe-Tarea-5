@@ -9,23 +9,23 @@
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/Cap%C3%ADtulo%209%20teoria.png)<br /><br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/Capitulo%2010%20teoria.png)<br /><br />
 3. Problemas (IMPARES)<br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.1.PNG)<br /><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.2.PNG)<br /><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.3.PNG)<br /><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.4.PNG)<br /><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.5.PNG)<br /><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.6.PNG)<br /><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.7.PNG)<br /><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.8.PNG)<br /><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.9.PNG)<br /><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.10.PNG)<br /><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.11.PNG)<br /><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.12.PNG)<br /><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.13.PNG)<br /><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.14.PNG)<br /><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.15.PNG)<br /><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/10.1.PNG)<br /><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/10.2.PNG)<br /><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/10.3.PNG)<br /><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/10.4.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.1.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.2.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.3.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.4.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.5.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.6.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.7.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.8.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.9.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.10.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.11.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.12.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.13.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.14.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/9.15.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/10.1.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/10.2.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/10.3.PNG)<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-5/blob/main/10.4.PNG)<br />
 4. Video
